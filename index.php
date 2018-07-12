@@ -18,6 +18,7 @@
 				<li>Barista</li>
 				<li>John is highly opinionated.  He believes any music which is played on the radio is garbage.  He will
 				readily look down upon anyone who thinks otherwise.</li>
+				<br />
 			</ul>
 
 			<li class="title">Devices/Technical Knowledge</li>
@@ -26,18 +27,21 @@
 				products.</li>
 				<li>MacBook Air 13.3", 256GB storage, 1.6 GHz dual-core Intel Core i5, 1440 x 900 resolution</li>
 				<li>iPhone X, 5.8" screen, 256GB storage, 2436 x 1125 resolution.</li>
+				<br />
 			</ul>
 
 			<li class="title">Use Case</li>
 			<ul>
 				<li>John would like to easily be able to publicly express his opinions about and rate concert venues he goes
 					to as well as save favorites and share with friends.</li>
+				<br />
 			</ul>
 
 			<li class="title">Frustrations</li>
 			<ul>
 				<li>Poor performance of mobile sites/apps.</li>
 				<li>Vetting period for posting comments/reviews.</li>
+				<br />
 			</ul>
 
 			<li class="title">Interaction Flow</li>
