@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
+		<meta charset="UTF-8" />
 		<title>Snap Concert</title>
-		<link rel="stylesheet" type="text/css" href="./styles.css">
+		<link rel="stylesheet" type="text/css" href="./styles.css" />
 	</head>
 	<body>
 		<h1>John Hinkle</h1>
-		<img src="./hipster.jpeg">
+		<img src="./hipster.jpeg" />
 		<ul>
 			<li class="title">Persona</li>
 			<ul>
