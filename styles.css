@@ -1,0 +1,14 @@
+h1 {
+	font-family: "Arial Black";
+	margin-top: 0;
+	margin-bottom: 20px;
+	height: 60px;
+	background: black;
+	color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+.title {
+	font-weight: 700;
+}
