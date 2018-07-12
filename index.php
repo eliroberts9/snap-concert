@@ -32,6 +32,19 @@
 				<li>Poor performance of mobile sites/apps.</li>
 				<li>Vetting period for posting comments/reviews.</li>
 			</ul>
+			<li>Interaction Flow</li>
+			<ul>
+				<li>John opens mobile site on his phone and searches for venue.</li>
+				<li>Site presents John with relevant venues matching his query.</li>
+				<li>John clicks on the venue he is attending.</li>
+				<li>Site present John with a review page for the venue.</li>
+				<li>John clicks on "Add review".</li>
+				<li>Site present John with a form for giving a star rating and writing a review.</li>
+				<li>John writes his review, gives a rating and clicks "Submit".</li>
+				<li>Site presents John with a preview page with a checkbox he can use to "Share with friends".</li>
+				<li>John checks the "Share with friends" box and clicks "Submit".</li>
+				<li>Site informs John that his review has been posted and directs him to where it is shown publicly.</li>
+			</ul>
 		</ul>
 	</body>
 </html>
