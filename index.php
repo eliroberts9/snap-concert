@@ -24,8 +24,8 @@
 				<li>iPhone X, 5.8" screen, 256GB storage, 2436 x 1125 resolution.</li>
 			</ul>
 			<li>Use Case</li>
-			<ul>John would like to easily be able to publibly express his opinions about and rate concert venues he goes
-				to.
+			<ul>John would like to easily be able to publicly express his opinions about and rate concert venues he goes
+				to as well as save favorites and share with friends.
 			</ul>
 			<li>Frustrations</li>
 			<ul>
