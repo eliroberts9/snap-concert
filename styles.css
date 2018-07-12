@@ -1,3 +1,11 @@
+body {
+	margin: 0;
+}
+
+img {
+	margin-left: 10px;
+}
+
 h1 {
 	font-family: "Arial Black";
 	margin-top: 0;
